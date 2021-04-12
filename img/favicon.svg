@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="5.4186mm" height="5.4186mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 541.86 541.86"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="674" font-variant="normal" style="fill-rule:nonzero" font-weight="600">
+	<font-face 
+		font-family="Museo 700">
+		<font-face-src>
+			<font-face-name name="Museo-700"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="M" horiz-adv-x="870" d="M17.9962 0l113.008 0c47.0006,0 63.9865,19.9958 67.9857,68.0067l23.0057 315.997c3.99916,47.0006 1.01031,110.987 1.01031,110.987l1.99958 0c0,0 20.9851,-70.9956 39.0023,-110.987l117.996 -262.008 105.999 0 117.996 262.008c17.9962,39.9916 39.0023,109.998 39.0023,109.998l1.99958 0c0,0 -3.00989,-62.9973 0.989265,-109.998l24.016 -315.997c3.99916,-48.0109 19.9958,-68.0067 66.9964,-68.0067l113.008 0 0 111.008 -31.004 0c-13.9971,0 -21.0061,7.99832 -22.0164,21.9954l-45.9903 576.994 -135.992 0 -146.011 -337.992c-16.9859,-41.0019 -35.0032,-95.0116 -35.0032,-95.0116l-1.99958 0c0,0 -17.9962,54.0097 -35.0032,95.0116l-145.99 337.992 -135.992 0 -46.0114 -576.994c-0.989265,-13.9971 -7.99832,-21.9954 -21.9954,-21.9954l-31.004 0 0 -111.008z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Museo 700";font-variant:normal;font-weight:600;src:url("#FontID0") format(svg)}
+    .fil0 {fill:lightseagreen}
+    .fil1 {fill:white}
+    .fnt0 {font-weight:600;font-size:475.1px;font-family:'Museo 700'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="37.25" y="16.92" width="487.68" height="508.01" rx="60.96" ry="60.96"/>
+  <text x="76.11" y="440.26"  class="fil1 fnt0">M</text>
+ </g>
+</svg>
